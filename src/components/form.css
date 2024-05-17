@@ -1,0 +1,19 @@
+/* FormComponent.css */
+.container {
+    max-width: 600px;
+    margin-top: 50px;
+  }
+  
+  .form-control {
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .form-label {
+    margin-bottom: 5px;
+  }
+  
+  .btn-primary {
+    width: 100%;
+  }
+  
